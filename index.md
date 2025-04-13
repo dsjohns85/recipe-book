@@ -12,3 +12,8 @@ Browse my collection of family-friendly, high-protein, and meal-prep-friendly re
     <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
   {% endfor %}
 </ul>  
+
+<h3>Debug Output</h3>
+<pre>
+{{ site.recipes | jsonify }}
+</pre>
