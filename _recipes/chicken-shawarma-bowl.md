@@ -1,6 +1,7 @@
 ---
 title: Chicken Shawarma Bowl (Family Style)
 layout: default
+permalink: /recipes/chicken-shawarma-bowl/
 ---
 
 # Chicken Shawarma Bowl (Family Style)
