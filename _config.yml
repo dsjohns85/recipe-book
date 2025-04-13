@@ -1,6 +1,6 @@
 baseurl: ""
 title: "Daniel's Recipe Book"
-theme: minima
+# theme: minima
 collections:
   recipes:
     output: true
