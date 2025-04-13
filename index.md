@@ -11,4 +11,4 @@ Browse my collection of family-friendly, high-protein, and meal-prep-friendly re
   {% for recipe in site.recipes %}
     <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
   {% endfor %}
-</ul>
+</ul>  
