@@ -1,7 +1,7 @@
-# _config.yml
 baseurl: ""
 title: "Daniel's Recipe Book"
 theme: minima
 collections:
   recipes:
     output: true
+    permalink: /recipes/:title/

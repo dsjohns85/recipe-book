@@ -9,6 +9,6 @@ Browse my collection of family-friendly, high-protein, and meal-prep-friendly re
 
 <ul>
   {% for recipe in site.recipes %}
-    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+    <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
   {% endfor %}
 </ul>
