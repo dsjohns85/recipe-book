@@ -1,24 +1,13 @@
 ---
 title: Chicken Shawarma Bowl (Family Style)
-servings: 5
-prep_time: 20 minutes
-cook_time: 25 minutes
-protein: 63g per adult
-fat: 19g
-carbs: 26g
-tags:
-  - high-protein
-  - global
-  - family
-  - grill
-  - meal-prep
-categories:
-  - Dinner
-  - Mediterranean
-  - Low-Carb
+layout: default
 ---
 
 # Chicken Shawarma Bowl (Family Style)
+
+**Servings:** 5  
+**Prep time:** 20 minutes  
+**Cook time:** 25 minutes
 
 ## Ingredients
 
